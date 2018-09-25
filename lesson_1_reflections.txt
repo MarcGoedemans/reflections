@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helped because you can very clearly and efficiently find the typo in the code, instead of having to go through the whole thing to find it manually.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It could help so that when I make I typo or accidentally delete it, I have the ability to revert back to an older version to restore it instead of losing everything.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    It could be good because you have more control over when to commit, so you can choose to do so at more logical intervals. However, you may forget to do so which is where auto saving like in Google Docs might come in handy.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because when two files are related or are necessary for each other to function, it's important to keep them together in the same commit and save them simultaneously.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    If you already have the file on your computer, you can cd into it and then use git log to view all commits made to the file. You must press q to exit this view, and then use the git diff command to and copy two commit ID's into the command at the bottom in order to view the history and editorial changes between these two commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It would make me more confident because I know I could mess up and still have an "insurance" that I could go back to.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like to use Git to code a game or an App
